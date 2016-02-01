@@ -21,5 +21,10 @@
     <gap:splash gap:platform="android" gap:qualifier="port-mdpi" src="res/drawable-mdpi-portrait/splash.png" />
     <gap:splash gap:platform="android" gap:qualifier="port-hdpi" src="res/drawable-hdpi-portrait/splash.png" />
     <gap:splash gap:platform="android" gap:qualifier="port-xhdpi" src="res/drawable-xhdpi-portrait/splash.png" />	
-	<splash src="splash.png" />		    
+	<splash src="splash.png" />
+	<icon src="icon.png" platform="android" qualifier="ldpi" />
+	<icon src="icon.png" platform="android" qualifier="mdpi" />
+	<icon src="icon.png" platform="android" qualifier="hdpi" />
+	<icon src="icon.png" platform="android" qualifier="xhdpi" />
+	<icon src="icon.png" platform="android" qualifier="xxhdpi" />		
 </widget>
